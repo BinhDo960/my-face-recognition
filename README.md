@@ -1,6 +1,6 @@
 # SmartBrain-api - v1
 
-Projects that uses the clarifai api that would take any image and detect any faces from the given image
+Project that uses the clarifai api that would take any image and detect any faces from the given image
 
 	1. Clone this repo
 	2. Run npm install
